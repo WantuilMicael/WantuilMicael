@@ -1,9 +1,8 @@
 ### Oi, eu sou o Wantuil Micael 👋
 
-- 🔭 Atualmente estou trabalhando com administração, porém quero mudar de área.
+- 🔭 Atualmente estou trabalhando com Administração, porém quero mudar de área.
 - 🌱 Estou fazendo Sistemas de Informação e estudando React.
 - 📫 Conta-te me em: wantuimicael@hotmail.com
-- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/WantuilMicael">
