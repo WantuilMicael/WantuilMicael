@@ -1,10 +1,11 @@
-### Oi, eu sou o Wantuil Micael 👋
+<h1> Oi! Sou o Wantuil Micael </h1>
 
 - 🔭 Atualmente estou trabalhando com Administração, porém quero mudar de área.
 - 🌱 Estou fazendo Sistemas de Informação e estudando React.
 - 📫 Conta-te me em: wantuimicael@hotmail.com
 
-##
+  
+  ##
 
 <div align="center">
   <a href="https://github.com/WantuilMicael">
