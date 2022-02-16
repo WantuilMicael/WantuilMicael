@@ -27,7 +27,7 @@
   <img align="center" alt="Wantuil-VisualStudio" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 
-## 🌐 Meus Conhecimentos
+## 🌐 Rede Sociais
   
 <div align="center"> 
   <a href="https://www.instagram.com/wantuil.micael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
