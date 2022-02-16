@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/WantuilMicael">
-  <img height="290em" src="https://github-readme-stats.vercel.app/api?username=WantuilMicael&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"/>
-  <img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantuilMicael&langs_count=20&langs_count=7&theme=gruvbox&hide_border=true"/>
+  <img height="290em" src="https://github-readme-stats.vercel.app/api?username=WantuilMicael&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"/>
+  <img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantuilMicael&langs_count=20&langs_count=7&theme=great-gatsby&hide_border=true"/>
 </div>
 
 ## 📚 Meus Conhecimentos
