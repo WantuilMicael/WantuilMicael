@@ -5,13 +5,15 @@
 - 📫 Conta-te me em: wantuimicael@hotmail.com
 
   
-  ##
+## 📊 Meus Status do Github
 
 <div align="center">
   <a href="https://github.com/WantuilMicael">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=WantuilMicael&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantuilMicael&langs_count=20&langs_count=7&theme=gruvbox"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=WantuilMicael&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantuilMicael&langs_count=20&langs_count=7&theme=gruvbox"/>
 </div>
+
+## 📚 Meus Conhecimentos
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Wantuil-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,7 +27,7 @@
   <img align="center" alt="Wantuil-VisualStudio" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
 
-  ##
+## 🌐 Meus Conhecimentos
   
 <div align="center"> 
   <a href="https://www.instagram.com/wantuil.micael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
@@ -33,6 +35,8 @@
  <a href="https://discord.gg/F2ktS8aEUU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
  <a href = "mailto:wantuimicael@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/wantuil-alves-350b6b14a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+##
   
   ![Snake animation](https://github.com/WantuilMicael/WantuilMicael/blob/output/github-contribution-grid-snake.svg)
 </div>
