@@ -8,9 +8,8 @@
 ## 📊 Meus Status do Github
 
 <div align="center">
-  <a href="https://github.com/WantuilMicael">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=WantuilMicael&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantuilMicael&layout=compact&langs_count=7&theme=great-gatsby&hide_border=true&bg_color=00000000"/>
+  <a href="https://github.com/WantuilMicael"> <img alt="WantuilMicael" src="https://github-readme-stats.vercel.app/api?username=WantuilMicael&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000"/></a>
+  <a href="https://github.com/WantuilMicael"> <img alt="WantuilMicael" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WantuilMicael&layout=compact&langs_count=7&theme=great-gatsby&hide_border=true&bg_color=00000000"/></a>
 </div>
 
 ## 📚 Meus Conhecimentos
