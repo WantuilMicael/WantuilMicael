@@ -1,7 +1,7 @@
 <h1> Oi! Sou o Wantuil Micael </h1>
 
 - 🔭 Atualmente estou trabalhando com Administração, porém quero mudar de área.
-- 🌱 Estou fazendo Sistemas de Informação e estudando React.
+- 🌱 Estou fazendo Sistemas de Informação e estudando desenvolvimento web.
 - 📫 Conta-te me em: wantuimicael@hotmail.com
 
   
