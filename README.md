@@ -41,7 +41,7 @@
 
 ##
   
-## ![Snake animation](https://github.com/WantuilMicael/WantuilMicael/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/WantuilMicael/WantuilMicael/blob/output/github-contribution-grid-snake.svg)
 </div>
 
   
