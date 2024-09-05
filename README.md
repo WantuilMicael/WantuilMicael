@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando com Administração, porém quero mudar de área.
 - 🌱 Estou fazendo Sistemas de Informação e estudando desenvolvimento web.
-- 📫 Conta-te me em: wantuimicael@hotmail.com
+- 📫 Conta-te me em: Linkedin
 
   
 ## 📊 Meus Status do Github
